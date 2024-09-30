@@ -1,11 +1,13 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
+-Primeiro Nome: Lucas
+-Profissão: Estudante
+-Cidade: Sao Bernardo do Campo
+-O que faz nas horas vaga: Estudo 
 -Feedback sobre o curso Qualidade de Software:
+Estou gostando do curso até aqui, mesmo com as dificuldades por ser uma area nova para mim.
 -Feedback sobre a plataforma de estudo da EBAC:
+A plataforma é boa, mas poderia ter alguns conteudos extras.
 
 Obrigado!!!
 
